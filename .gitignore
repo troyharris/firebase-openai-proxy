@@ -73,3 +73,6 @@ lib/**/*.js.map
 
 # TypeScript v1 declaration files
 typings/
+
+Mac spam
+.DS_Store
